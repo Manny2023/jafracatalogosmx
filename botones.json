@@ -1,9 +1,9 @@
 {
   "botones": [
     { "nombre": "NOVIEMBRE","url": ""},
-    { "nombre": "OCTUBRE", "url": "https://catalogosdetodomx-a11y.github.io/arabela/ar1.json" },
-    { "nombre": "SEPTIEMBRE", "url": "https://catalogosdetodomx-a11y.github.io/arabela/ar2.json" },
-    { "nombre": "AGOSTO", "url": "https://catalogosdetodomx-a11y.github.io/arabela/ar3.json" }
+    { "nombre": "OCTUBRE", "url": "https://manny2023.github.io/jafracatalogosmx/cat1.json" },
+    { "nombre": "SEPTIEMBRE", "url": "https://manny2023.github.io/jafracatalogosmx/cat2.json" },
+    { "nombre": "AGOSTO", "url": "https://manny2023.github.io/jafracatalogosmx/cat3.json" }
   ]
 }
 
