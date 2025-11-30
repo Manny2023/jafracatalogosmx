@@ -1,9 +1,9 @@
 {
   "botones": [
-    { "nombre": "DICIEMBRE ESTA EN PDF","url": ""},
-    { "nombre": "NOVIEMBRE", "url": "https://manny2023.github.io/jafracatalogosmx/cat1.json" },
-    { "nombre": "OCTUBRE", "url": "https://manny2023.github.io/jafracatalogosmx/cat2.json" },
-    { "nombre": "SEPTIEMBRE", "url": "https://manny2023.github.io/jafracatalogosmx/cat3.json" }
+    { "nombre": "ENERO PENDIENTE","url": ""},
+    { "nombre": "DICIEMBRE", "url": "https://manny2023.github.io/jafracatalogosmx/cat1.json" },
+    { "nombre": "NOVIEMBRE", "url": "https://manny2023.github.io/jafracatalogosmx/cat2.json" },
+    { "nombre": "OCTUBRE", "url": "https://manny2023.github.io/jafracatalogosmx/cat3.json" }
   ]
 }
 
