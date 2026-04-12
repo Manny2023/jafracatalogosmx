@@ -1,0 +1,57 @@
+{
+  "filas": [
+    {
+      "titulo": "CATALOGOS",
+      "color": "#f70820",
+      "items": [
+        {
+          "titulo": "ABRIL",
+          "img": "https://nuevasrevistas.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/35a07c4ddfef362c45e77d41ef293f0d.5ec2.webp",
+          "link": "https://drive.google.com/file/d/1vVJZh8Q0quwnHTvtlrFqlhSA1Y5H2GoB/view?usp=drive_link"
+        },
+        {
+          "titulo": "MARZO",
+          "img": "https://nuevasrevistas.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/afdf77521d360317e6885a3eb9deab65.5f74.webp",
+          "link": "https://drive.google.com/file/d/1LHYGKsrjIsJI_K9V41zF8gnocDeYtQJW/view?usp=drive_link"
+        },
+        {
+          "titulo": "FEBRERO",
+          "img": "https://nuevasrevistas.com/revistas/mx/jafra/2026_catalogo_02_febrero/1.webp",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "titulo": "PLAN PROMOCIONAL",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "ABRIL",
+          "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiiuJ2eOzM2Pka9zBrd7nfGQRUwJOK0VznrM8KoSX00jJDZn5ccVaHXaShfU-zOokBxHEnAx61-TG7dja47AzulVZf8NRH_zrnap1ERsvjf5fHxtGndF7hyphenhyphenaq65j82t5Ha_l23_qFauJr-4HksKtycMNrEBaSQuzuPQAmix7CjlG1dXzAB4f6IgMadmj7b/s353/Screenshot%202026-04-12%20at%2012-39-29%201-abrillistadeprecios.pdf%20-%20Google%20Drive.png",
+          "link": "https://drive.google.com/file/d/1rtFEvQMMTUm9E72sy82HeB4KLajjgvXv/view?usp=drive_link"
+        },
+        {
+          "titulo": "MARZO",
+          "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghBwUY6-zLnyZnyNU3qDKtZw74Jda6SQZfKNSltHDVkl7xPD5akqN5enJiqSfMUuZJuOwRvogNWfNVXehQ8BEOua5QK-4JSXh8JkEmTOyXaGG5d5C9BBEXtJ6HSlCYWWfgkIEEcaj69XQ4eaY00MEClDfHpfWtUPTyJFtw6K86WTL5rtBbAkc41N5w58LT/s352/Screenshot%202026-04-12%20at%2012-37-38%203.%20Plan%20Promocional%20marzo26.pdf%20-%20Google%20Drive.png",
+          "link": "https://drive.google.com/file/d/1JeLCtNpNHbs4sbU6mhjvIQjBHXeG6w89/view?usp=drive_link"
+        },
+        {
+          "titulo": "FEBRERO",
+          "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx9_U7BozqAr7xXuGsauptd2Fmt9wsD-iCjhf-UmykLkptTVJnWCN6TijE9VmxrZQpAVW7rRmczA1hpPy01KaTWATe2oq1lR-TgBEVd3Up1GSsV34ff-Ki4YTLv75KqBYyfYGeW9FfmMrXFvvaFopDYxt93b6Ybpw0NODFrCq1CjPZBRAfSSBGcHdtiXWA/s1077/Screenshot%202026-04-12%20at%2012-33-04%20lista%20febrero%20-%20Google%20Drive.png",
+          "link": "https://drive.google.com/file/d/1HdrLcm3ny6aCyFAKxdIuGOtQekmgpWu3/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "PUNTOS",
+      "color": "#0040ff",
+      "items": [
+        {
+          "titulo": "2026",
+          "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz0Li2hCCKaa4-fi6SbvpDocmA8po9geiBSSom9LXVCahtnkIppuBZ-epKwlYO9rKT3iVmta_MDlfxauJ25JKdannrpz6IWfHgfjRutwl0UYuHrgc60BKs14tMDDxNwzE1gQP3ORZObRtIbU53lw4PuLn2e0rPYePa-5pN6_wUhZZ1jCEkJoyjRSym90xR/s366/Screenshot%202026-04-12%20at%2012-42-49%20Folleto%20Bases%20promocionales%20Sistema%20de%20Puntos%202026.pdf%20-%20Google%20Drive.png",
+          "link": "https://drive.google.com/file/d/108WItulkCusKAh-RhEXInUUubjlz6ThL/view?usp=drive_link"
+        }
+      ]
+    }
+  ]
+}
