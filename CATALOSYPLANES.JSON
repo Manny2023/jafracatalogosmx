@@ -2,6 +2,17 @@
   "filas": [
     {
       "titulo": "CATALOGOS",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "ADELANTO JUNIO",
+          "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcmAEnxtWeyaKJchecqVOBFeVs-EOZQXhWltEd1sXBV2AXAw9Zs-X4cik7VStXVofEVVoq4WLjFdBMda8gkjQOfVwzasv_e1ht2eLW0CtamMlb7jilKdlurphRM7V_5NqXn90BoBtZuWF7A51rYvt6MKWfM6Vs-6o7DUl7g4N3N4Uy_GQgaVOXmJY5L8M/s475/Screenshot%202026-05-26%20at%2014-40-32%20J.O%20Junio%202026%20(LCDJ).pdf%20-%20Google%20Drive.png",
+          "link": "https://drive.google.com/file/d/1Lu88VVoZ7BogVFz_r7yMX61CmB-oxnjc/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "",
       "color": "#f70820",
       "items": [
         {
