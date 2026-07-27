@@ -1,6 +1,17 @@
 {
   "filas": [
     {
+      "titulo": "AGOSTO",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Adelanto",
+          "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMT1u2ogADJ9k8ZVyBssB1fluGgFmhvYAmXbx7JPvMEklFjwT60KYML6by-mfP_QBQCCMi6N17CZaMIGTYbYiJt9O2KAVysZyo8ty9t7wDB9rM7aWwqsedibXV4zeDOlcBGWX0D34b7cbHEdqWY2uQdzZ2csfq2VDI5iG32m1qCc8DbxPBCf7YWJoQLdj4/s0/pagina_001.webp",
+          "link": "https://drive.google.com/file/d/14B-CDRr8qO4NQfezUbxo4V4XE4FfIt1q/view?usp=drive_link"
+        }
+      ]
+    },
+    {
       "titulo": "julio",
       "color": "#2E7D32",
       "items": [
