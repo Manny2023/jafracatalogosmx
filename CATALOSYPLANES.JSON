@@ -1,6 +1,17 @@
 {
   "filas": [
     {
+      "titulo": "SEPTIEMBRE",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "ADELANTO",
+          "img": "https://lh3.googleusercontent.com/d/1vaYsixywqADcMXNXOXicTzpsiDBNbO6M=w1000",
+          "link": "https://drive.google.com/file/d/1vaYsixywqADcMXNXOXicTzpsiDBNbO6M/view?usp=drive_link"
+        }
+      ]
+    },
+    {
       "titulo": "AGOSTO",
       "color": "#2E7D32",
       "items": [
