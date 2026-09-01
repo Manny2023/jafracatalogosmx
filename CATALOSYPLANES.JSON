@@ -5,9 +5,24 @@
       "color": "#2E7D32",
       "items": [
         {
-          "titulo": "ADELANTO",
-          "img": "https://lh3.googleusercontent.com/d/1vaYsixywqADcMXNXOXicTzpsiDBNbO6M=w1000",
-          "link": "https://drive.google.com/file/d/1vaYsixywqADcMXNXOXicTzpsiDBNbO6M/view?usp=drive_link"
+          "titulo": "septiembre",
+          "img": "https://lh3.googleusercontent.com/d/1dtCETvap8LWtfnMUuz3v2iAbS5W-P9ZV=w1000",
+          "link": "https://drive.google.com/file/d/1dtCETvap8LWtfnMUuz3v2iAbS5W-P9ZV/view?usp=drive_link"
+        },
+        {
+          "titulo": "promo del mes",
+          "img": "https://lh3.googleusercontent.com/d/1445-QFCiwAxnIYikBv8lbhGX3ewGSaoP=w1000",
+          "link": "https://drive.google.com/file/d/1445-QFCiwAxnIYikBv8lbhGX3ewGSaoP/view?usp=drive_link"
+        },
+        {
+          "titulo": "plan promo",
+          "img": "https://lh3.googleusercontent.com/d/1Zs5_Hum5HOpRYU2IzPGoJ1FCHgkYFA0d=w1000",
+          "link": "https://drive.google.com/file/d/1Zs5_Hum5HOpRYU2IzPGoJ1FCHgkYFA0d/view?usp=drive_link"
+        },
+        {
+          "titulo": "lista precios",
+          "img": "https://lh3.googleusercontent.com/d/1oivdtg6ztnKpC9gTMVW8oHUBH11fcw5J=w1000",
+          "link": "https://drive.google.com/file/d/1oivdtg6ztnKpC9gTMVW8oHUBH11fcw5J/view?usp=drive_link"
         }
       ]
     },
