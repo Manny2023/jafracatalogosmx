@@ -1,6 +1,17 @@
 {
   "filas": [
     {
+      "titulo": "Nueva marca",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Octubre",
+          "img": "https://lh3.googleusercontent.com/d/1gDsrR-GaXeNDqSAsHTW7kppNl7Ffy3ye=w1000",
+          "link": "https://drive.google.com/file/d/1gDsrR-GaXeNDqSAsHTW7kppNl7Ffy3ye/view?usp=drive_link"
+        }
+      ]
+    },
+    {
       "titulo": "SEPTIEMBRE",
       "color": "#2E7D32",
       "items": [
@@ -37,17 +48,17 @@
       "items": [
         {
           "titulo": "AGOSTO",
-          "img": "https://www.appcreator24.com/srv/imgs/cards/temp/13871.png?ts=1785609840075",
+          "img": "https://lh3.googleusercontent.com/d/1J5YYAWfRRspCSJc28rPuk2JBYK5au5la=w1000",
           "link": "https://drive.google.com/file/d/1J5YYAWfRRspCSJc28rPuk2JBYK5au5la/view?usp=drive_link"
         },
         {
           "titulo": "PLAN PRIMOCINAL",
-          "img": "https://www.appcreator24.com/srv/imgs/cards/temp/13874.png?ts=1785610289459",
-          "link": "https://drive.google.com/file/d/1WiVYsqE-07HQNW8RcuM1uKzNMJTKanlc/view?usp=drive_link"
+          "img": "https://lh3.googleusercontent.com/d/1WiVYsqE-07HQNW8RcuM1uKzNMJTKanlc=w1000",
+          "link": "https://drive.google.com/file/d/1WiVYsqE-07HQNW8RcuM1uKzNMJTKanlc/view?usp=sharing"
         },
         {
           "titulo": "LISTA DE PRECIOS",
-          "img": "https://www.appcreator24.com/srv/imgs/cards/temp/13872.png?ts=1785610138932",
+          "img": "https://lh3.googleusercontent.com/d/1ny6YOluiLhu2F3oUgMBGej9w1pZL-MTy=w1000",
           "link": "https://drive.google.com/file/d/1ny6YOluiLhu2F3oUgMBGej9w1pZL-MTy/view?usp=drive_link"
         },
         {
