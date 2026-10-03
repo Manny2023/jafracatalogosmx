@@ -1,13 +1,18 @@
 {
   "filas": [
     {
-      "titulo": "Nueva marca",
+      "titulo": "Octubre",
       "color": "#2E7D32",
       "items": [
         {
-          "titulo": "Octubre",
-          "img": "https://lh3.googleusercontent.com/d/1gDsrR-GaXeNDqSAsHTW7kppNl7Ffy3ye=w1000",
-          "link": "https://drive.google.com/file/d/1gDsrR-GaXeNDqSAsHTW7kppNl7Ffy3ye/view?usp=drive_link"
+          "titulo": "octubre",
+          "img": "https://lh3.googleusercontent.com/d/1mRj7-hP1LDMswCNuUS7PxdwQ-O5VAGt0=w1000",
+          "link": "https://drive.google.com/file/d/1mRj7-hP1LDMswCNuUS7PxdwQ-O5VAGt0/view?usp=drive_link"
+        },
+        {
+          "titulo": "plan promocional",
+          "img": "https://lh3.googleusercontent.com/d/1ECMclio5YIqF4aDXIwJ0FbMGUldMi8bS=w1000",
+          "link": "https://drive.google.com/file/d/1ECMclio5YIqF4aDXIwJ0FbMGUldMi8bS/view?usp=drive_link"
         }
       ]
     },
